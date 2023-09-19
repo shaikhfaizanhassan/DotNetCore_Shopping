@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Online_Shopping_Cart_Dot_NET_CORE6.props" />
+</Project>
