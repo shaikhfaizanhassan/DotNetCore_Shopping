@@ -17,6 +17,12 @@ namespace Online_Shopping_Cart_Dot_NET_CORE6.Controllers
         {
             return View();
         }
+        
+        public IActionResult Form()
+        {
+            return View();
+        }
+
 
         public IActionResult Privacy()
         {

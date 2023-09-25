@@ -16,16 +16,36 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = E:\VS2022 project\API TUT\Online_Shopping_Cart_Dot_NET_CORE6\Online_Shopping_Cart_Dot_NET_CORE6
 build_property._RazorSourceGeneratorDebug = 
 
+[E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Brands/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Brands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Home/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Shared/_DashboardLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmRMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/VS2022 project/API TUT/Online_Shopping_Cart_Dot_NET_CORE6/Online_Shopping_Cart_Dot_NET_CORE6/Views/Shared/_ValidationScriptsPartial.cshtml]
